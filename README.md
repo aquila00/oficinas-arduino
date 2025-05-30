@@ -45,7 +45,7 @@ Projeto realizado com o apoio do **Curso de Engenharia da Computação da PUC Mi
 
 **Profª Sandra Maria Pereira**  
 Coordenadora e responsável pelo projeto 
-[sandra.pereira898@educacao.mg.gov.br]
----
+sandra.pereira898@educacao.mg.gov.br
+
 
 **Este projeto está licenciado sob a [MIT License](LICENSE)**.
