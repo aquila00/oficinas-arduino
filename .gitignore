@@ -1,0 +1,18 @@
+# Documentos temporários
+*.log
+*.tmp
+*.bak
+*.DS_Store
+~$*
+
+# Office
+*.docx~
+*.xlsx~
+*.pptx~
+
+# Python / Arduino
+__pycache__/
+*.pyc
+*.hex
+*.elf
+*.bin
